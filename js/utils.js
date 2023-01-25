@@ -47,3 +47,6 @@ function addPopupToMap(nombreCapa) {
       popup.remove();
     });
   }// fin funcion
+
+
+  
